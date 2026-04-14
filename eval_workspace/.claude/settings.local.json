@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmd /c \"claude mcp add playwright --transport stdio -- npx -y @playwright/mcp\")",
+      "Bash(cmd /c \"claude mcp list\")"
+    ]
+  }
+}

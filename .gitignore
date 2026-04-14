@@ -1,0 +1,13 @@
+# 忽略 Python 缓存
+__pycache__/
+*.py[cod]
+
+# 忽略生成的测试工作区数据（视频、结果表格、切片等）
+eval_workspace/videos
+eval_workspace/output_results
+output_results/
+*.mp4
+*.xlsx
+
+# 忽略系统文件
+.DS_Store

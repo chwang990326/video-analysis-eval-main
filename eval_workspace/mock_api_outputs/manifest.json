@@ -1,0 +1,21 @@
+{
+  "analysis_fps": 5,
+  "videos": {
+    "剧本1_单人静态身份.mp4": {
+      "duration_seconds": 12.2,
+      "mock_output_file": "剧本1_单人静态身份.json"
+    },
+    "剧本2_单人动态行为.mp4": {
+      "duration_seconds": 25.2,
+      "mock_output_file": "剧本2_单人动态行为.json"
+    },
+    "剧本3_多人交叉轨迹.mp4": {
+      "duration_seconds": 24.2,
+      "mock_output_file": "剧本3_多人交叉轨迹.json"
+    },
+    "剧本4_干扰动作误报.mp4": {
+      "duration_seconds": 16.2,
+      "mock_output_file": "剧本4_干扰动作误报.json"
+    }
+  }
+}

@@ -1,0 +1,5326 @@
+[
+  {
+    "timestamp": 0.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 113,
+        "y": 485,
+        "bbox": [
+          93,
+          435,
+          133,
+          535
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 125,
+        "y": 114,
+        "bbox": [
+          105,
+          64,
+          145,
+          164
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 524,
+        "y": 123,
+        "bbox": [
+          504,
+          73,
+          544,
+          173
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 0.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 113,
+        "y": 485,
+        "bbox": [
+          93,
+          435,
+          133,
+          535
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 125,
+        "y": 114,
+        "bbox": [
+          105,
+          64,
+          145,
+          164
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 524,
+        "y": 123,
+        "bbox": [
+          504,
+          73,
+          544,
+          173
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 0.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 113,
+        "y": 485,
+        "bbox": [
+          93,
+          435,
+          133,
+          535
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 125,
+        "y": 114,
+        "bbox": [
+          105,
+          64,
+          145,
+          164
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 524,
+        "y": 123,
+        "bbox": [
+          504,
+          73,
+          544,
+          173
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 0.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 113,
+        "y": 485,
+        "bbox": [
+          93,
+          435,
+          133,
+          535
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 125,
+        "y": 114,
+        "bbox": [
+          105,
+          64,
+          145,
+          164
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 524,
+        "y": 123,
+        "bbox": [
+          504,
+          73,
+          544,
+          173
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 0.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 113,
+        "y": 485,
+        "bbox": [
+          93,
+          435,
+          133,
+          535
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 125,
+        "y": 114,
+        "bbox": [
+          105,
+          64,
+          145,
+          164
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 524,
+        "y": 123,
+        "bbox": [
+          504,
+          73,
+          544,
+          173
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 1.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 113,
+        "y": 485,
+        "bbox": [
+          93,
+          435,
+          133,
+          535
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 125,
+        "y": 114,
+        "bbox": [
+          105,
+          64,
+          145,
+          164
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 524,
+        "y": 123,
+        "bbox": [
+          504,
+          73,
+          544,
+          173
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 1.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 113,
+        "y": 485,
+        "bbox": [
+          93,
+          435,
+          133,
+          535
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 125,
+        "y": 114,
+        "bbox": [
+          105,
+          64,
+          145,
+          164
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 524,
+        "y": 123,
+        "bbox": [
+          504,
+          73,
+          544,
+          173
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 1.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 113,
+        "y": 485,
+        "bbox": [
+          93,
+          435,
+          133,
+          535
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 125,
+        "y": 114,
+        "bbox": [
+          105,
+          64,
+          145,
+          164
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 524,
+        "y": 123,
+        "bbox": [
+          504,
+          73,
+          544,
+          173
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 1.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 113,
+        "y": 485,
+        "bbox": [
+          93,
+          435,
+          133,
+          535
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 125,
+        "y": 114,
+        "bbox": [
+          105,
+          64,
+          145,
+          164
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 524,
+        "y": 123,
+        "bbox": [
+          504,
+          73,
+          544,
+          173
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 1.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 113,
+        "y": 485,
+        "bbox": [
+          93,
+          435,
+          133,
+          535
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 125,
+        "y": 114,
+        "bbox": [
+          105,
+          64,
+          145,
+          164
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 524,
+        "y": 123,
+        "bbox": [
+          504,
+          73,
+          544,
+          173
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 2.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 113,
+        "y": 485,
+        "bbox": [
+          93,
+          435,
+          133,
+          535
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 125,
+        "y": 114,
+        "bbox": [
+          105,
+          64,
+          145,
+          164
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 524,
+        "y": 123,
+        "bbox": [
+          504,
+          73,
+          544,
+          173
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 2.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 113,
+        "y": 485,
+        "bbox": [
+          93,
+          435,
+          133,
+          535
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 125,
+        "y": 114,
+        "bbox": [
+          105,
+          64,
+          145,
+          164
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 524,
+        "y": 123,
+        "bbox": [
+          504,
+          73,
+          544,
+          173
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 2.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 113,
+        "y": 485,
+        "bbox": [
+          93,
+          435,
+          133,
+          535
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 125,
+        "y": 114,
+        "bbox": [
+          105,
+          64,
+          145,
+          164
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 524,
+        "y": 123,
+        "bbox": [
+          504,
+          73,
+          544,
+          173
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 2.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 113,
+        "y": 485,
+        "bbox": [
+          93,
+          435,
+          133,
+          535
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 125,
+        "y": 114,
+        "bbox": [
+          105,
+          64,
+          145,
+          164
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 524,
+        "y": 123,
+        "bbox": [
+          504,
+          73,
+          544,
+          173
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 2.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 113,
+        "y": 485,
+        "bbox": [
+          93,
+          435,
+          133,
+          535
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 125,
+        "y": 114,
+        "bbox": [
+          105,
+          64,
+          145,
+          164
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 524,
+        "y": 123,
+        "bbox": [
+          504,
+          73,
+          544,
+          173
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 3.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 113,
+        "y": 485,
+        "bbox": [
+          93,
+          435,
+          133,
+          535
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 125,
+        "y": 114,
+        "bbox": [
+          105,
+          64,
+          145,
+          164
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 524,
+        "y": 123,
+        "bbox": [
+          504,
+          73,
+          544,
+          173
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 3.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 122,
+        "y": 481,
+        "bbox": [
+          101,
+          431,
+          141,
+          531
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 129,
+        "y": 118,
+        "bbox": [
+          109,
+          68,
+          149,
+          168
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 515,
+        "y": 127,
+        "bbox": [
+          495,
+          77,
+          535,
+          177
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 3.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 131,
+        "y": 477,
+        "bbox": [
+          110,
+          427,
+          150,
+          527
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 134,
+        "y": 122,
+        "bbox": [
+          113,
+          72,
+          153,
+          172
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 506,
+        "y": 131,
+        "bbox": [
+          486,
+          81,
+          526,
+          181
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 3.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 140,
+        "y": 473,
+        "bbox": [
+          119,
+          423,
+          159,
+          523
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 138,
+        "y": 126,
+        "bbox": [
+          118,
+          76,
+          158,
+          176
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 497,
+        "y": 135,
+        "bbox": [
+          477,
+          85,
+          517,
+          185
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 3.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 149,
+        "y": 469,
+        "bbox": [
+          128,
+          419,
+          168,
+          519
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 143,
+        "y": 130,
+        "bbox": [
+          122,
+          80,
+          162,
+          180
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 488,
+        "y": 139,
+        "bbox": [
+          468,
+          89,
+          508,
+          189
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 4.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 157,
+        "y": 465,
+        "bbox": [
+          137,
+          415,
+          177,
+          515
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 147,
+        "y": 134,
+        "bbox": [
+          127,
+          84,
+          167,
+          184
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 480,
+        "y": 143,
+        "bbox": [
+          459,
+          93,
+          499,
+          193
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 4.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 166,
+        "y": 461,
+        "bbox": [
+          146,
+          411,
+          186,
+          511
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 152,
+        "y": 138,
+        "bbox": [
+          131,
+          88,
+          171,
+          188
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 471,
+        "y": 147,
+        "bbox": [
+          450,
+          97,
+          490,
+          197
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 4.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 175,
+        "y": 457,
+        "bbox": [
+          155,
+          407,
+          195,
+          507
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 156,
+        "y": 142,
+        "bbox": [
+          136,
+          92,
+          176,
+          192
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 462,
+        "y": 151,
+        "bbox": [
+          441,
+          101,
+          481,
+          201
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 4.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 184,
+        "y": 453,
+        "bbox": [
+          164,
+          403,
+          204,
+          503
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 161,
+        "y": 146,
+        "bbox": [
+          140,
+          96,
+          180,
+          196
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 453,
+        "y": 155,
+        "bbox": [
+          432,
+          105,
+          472,
+          205
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 4.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 193,
+        "y": 449,
+        "bbox": [
+          173,
+          399,
+          213,
+          499
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 165,
+        "y": 150,
+        "bbox": [
+          145,
+          100,
+          185,
+          200
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 444,
+        "y": 159,
+        "bbox": [
+          424,
+          109,
+          464,
+          209
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 5.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 202,
+        "y": 445,
+        "bbox": [
+          181,
+          395,
+          221,
+          495
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 169,
+        "y": 154,
+        "bbox": [
+          149,
+          104,
+          189,
+          204
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 435,
+        "y": 163,
+        "bbox": [
+          415,
+          113,
+          455,
+          213
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 5.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 211,
+        "y": 441,
+        "bbox": [
+          190,
+          391,
+          230,
+          491
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 174,
+        "y": 158,
+        "bbox": [
+          153,
+          108,
+          193,
+          208
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 426,
+        "y": 167,
+        "bbox": [
+          406,
+          117,
+          446,
+          217
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 5.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 220,
+        "y": 437,
+        "bbox": [
+          199,
+          387,
+          239,
+          487
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 178,
+        "y": 162,
+        "bbox": [
+          158,
+          112,
+          198,
+          212
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 417,
+        "y": 171,
+        "bbox": [
+          397,
+          121,
+          437,
+          221
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 5.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 229,
+        "y": 433,
+        "bbox": [
+          208,
+          383,
+          248,
+          483
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 183,
+        "y": 166,
+        "bbox": [
+          162,
+          116,
+          202,
+          216
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 408,
+        "y": 175,
+        "bbox": [
+          388,
+          125,
+          428,
+          225
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 5.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 237,
+        "y": 429,
+        "bbox": [
+          217,
+          379,
+          257,
+          479
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 187,
+        "y": 170,
+        "bbox": [
+          167,
+          120,
+          207,
+          220
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 400,
+        "y": 179,
+        "bbox": [
+          379,
+          129,
+          419,
+          229
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 6.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 246,
+        "y": 425,
+        "bbox": [
+          226,
+          375,
+          266,
+          475
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 192,
+        "y": 174,
+        "bbox": [
+          171,
+          124,
+          211,
+          224
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 391,
+        "y": 183,
+        "bbox": [
+          370,
+          133,
+          410,
+          233
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 6.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 255,
+        "y": 421,
+        "bbox": [
+          235,
+          371,
+          275,
+          471
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 196,
+        "y": 178,
+        "bbox": [
+          176,
+          128,
+          216,
+          228
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 382,
+        "y": 187,
+        "bbox": [
+          361,
+          137,
+          401,
+          237
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 6.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 264,
+        "y": 417,
+        "bbox": [
+          244,
+          367,
+          284,
+          467
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 201,
+        "y": 182,
+        "bbox": [
+          180,
+          132,
+          220,
+          232
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 373,
+        "y": 191,
+        "bbox": [
+          352,
+          141,
+          392,
+          241
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 6.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 273,
+        "y": 413,
+        "bbox": [
+          253,
+          363,
+          293,
+          463
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 205,
+        "y": 186,
+        "bbox": [
+          185,
+          136,
+          225,
+          236
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 364,
+        "y": 195,
+        "bbox": [
+          344,
+          145,
+          384,
+          245
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 6.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 282,
+        "y": 409,
+        "bbox": [
+          261,
+          359,
+          301,
+          459
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 209,
+        "y": 190,
+        "bbox": [
+          189,
+          140,
+          229,
+          240
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 355,
+        "y": 199,
+        "bbox": [
+          335,
+          149,
+          375,
+          249
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 7.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 291,
+        "y": 405,
+        "bbox": [
+          270,
+          355,
+          310,
+          455
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 214,
+        "y": 194,
+        "bbox": [
+          193,
+          144,
+          233,
+          244
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 346,
+        "y": 203,
+        "bbox": [
+          326,
+          153,
+          366,
+          253
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 7.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 300,
+        "y": 401,
+        "bbox": [
+          279,
+          351,
+          319,
+          451
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 218,
+        "y": 198,
+        "bbox": [
+          198,
+          148,
+          238,
+          248
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 337,
+        "y": 207,
+        "bbox": [
+          317,
+          157,
+          357,
+          257
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 7.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 309,
+        "y": 397,
+        "bbox": [
+          288,
+          347,
+          328,
+          447
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 223,
+        "y": 202,
+        "bbox": [
+          202,
+          152,
+          242,
+          252
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 328,
+        "y": 211,
+        "bbox": [
+          308,
+          161,
+          348,
+          261
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 7.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 317,
+        "y": 393,
+        "bbox": [
+          297,
+          343,
+          337,
+          443
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 227,
+        "y": 206,
+        "bbox": [
+          207,
+          156,
+          247,
+          256
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 320,
+        "y": 215,
+        "bbox": [
+          299,
+          165,
+          339,
+          265
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 7.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 326,
+        "y": 389,
+        "bbox": [
+          306,
+          339,
+          346,
+          439
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 232,
+        "y": 210,
+        "bbox": [
+          211,
+          160,
+          251,
+          260
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 311,
+        "y": 219,
+        "bbox": [
+          290,
+          169,
+          330,
+          269
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 8.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 335,
+        "y": 385,
+        "bbox": [
+          315,
+          335,
+          355,
+          435
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 236,
+        "y": 214,
+        "bbox": [
+          216,
+          164,
+          256,
+          264
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 302,
+        "y": 223,
+        "bbox": [
+          281,
+          173,
+          321,
+          273
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 8.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 344,
+        "y": 381,
+        "bbox": [
+          324,
+          331,
+          364,
+          431
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 241,
+        "y": 218,
+        "bbox": [
+          220,
+          168,
+          260,
+          268
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 293,
+        "y": 227,
+        "bbox": [
+          272,
+          177,
+          312,
+          277
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 8.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 353,
+        "y": 377,
+        "bbox": [
+          333,
+          327,
+          373,
+          427
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 245,
+        "y": 222,
+        "bbox": [
+          225,
+          172,
+          265,
+          272
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 284,
+        "y": 231,
+        "bbox": [
+          264,
+          181,
+          304,
+          281
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 8.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 362,
+        "y": 373,
+        "bbox": [
+          341,
+          323,
+          381,
+          423
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 249,
+        "y": 226,
+        "bbox": [
+          229,
+          176,
+          269,
+          276
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 275,
+        "y": 235,
+        "bbox": [
+          255,
+          185,
+          295,
+          285
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 8.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 371,
+        "y": 369,
+        "bbox": [
+          350,
+          319,
+          390,
+          419
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 254,
+        "y": 230,
+        "bbox": [
+          233,
+          180,
+          273,
+          280
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 266,
+        "y": 239,
+        "bbox": [
+          246,
+          189,
+          286,
+          289
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 9.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 380,
+        "y": 365,
+        "bbox": [
+          359,
+          315,
+          399,
+          415
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 258,
+        "y": 234,
+        "bbox": [
+          238,
+          184,
+          278,
+          284
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 257,
+        "y": 243,
+        "bbox": [
+          237,
+          193,
+          277,
+          293
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 9.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 389,
+        "y": 361,
+        "bbox": [
+          368,
+          311,
+          408,
+          411
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 263,
+        "y": 238,
+        "bbox": [
+          242,
+          188,
+          282,
+          288
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 248,
+        "y": 247,
+        "bbox": [
+          228,
+          197,
+          268,
+          297
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 9.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 397,
+        "y": 357,
+        "bbox": [
+          377,
+          307,
+          417,
+          407
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 267,
+        "y": 242,
+        "bbox": [
+          247,
+          192,
+          287,
+          292
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 240,
+        "y": 251,
+        "bbox": [
+          219,
+          201,
+          259,
+          301
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 9.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 406,
+        "y": 353,
+        "bbox": [
+          386,
+          303,
+          426,
+          403
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 272,
+        "y": 246,
+        "bbox": [
+          251,
+          196,
+          291,
+          296
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 231,
+        "y": 255,
+        "bbox": [
+          210,
+          205,
+          250,
+          305
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 9.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 415,
+        "y": 349,
+        "bbox": [
+          395,
+          299,
+          435,
+          399
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 276,
+        "y": 250,
+        "bbox": [
+          256,
+          200,
+          296,
+          300
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 222,
+        "y": 259,
+        "bbox": [
+          201,
+          209,
+          241,
+          309
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 10.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 424,
+        "y": 345,
+        "bbox": [
+          404,
+          295,
+          444,
+          395
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 281,
+        "y": 254,
+        "bbox": [
+          260,
+          204,
+          300,
+          304
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 213,
+        "y": 263,
+        "bbox": [
+          192,
+          213,
+          232,
+          313
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 10.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 433,
+        "y": 341,
+        "bbox": [
+          413,
+          291,
+          453,
+          391
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 285,
+        "y": 258,
+        "bbox": [
+          265,
+          208,
+          305,
+          308
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 204,
+        "y": 267,
+        "bbox": [
+          184,
+          217,
+          224,
+          317
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 10.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 442,
+        "y": 337,
+        "bbox": [
+          421,
+          287,
+          461,
+          387
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 289,
+        "y": 262,
+        "bbox": [
+          269,
+          212,
+          309,
+          312
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 195,
+        "y": 271,
+        "bbox": [
+          175,
+          221,
+          215,
+          321
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 10.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 451,
+        "y": 333,
+        "bbox": [
+          430,
+          283,
+          470,
+          383
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 294,
+        "y": 266,
+        "bbox": [
+          273,
+          216,
+          313,
+          316
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 186,
+        "y": 275,
+        "bbox": [
+          166,
+          225,
+          206,
+          325
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 10.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 460,
+        "y": 329,
+        "bbox": [
+          439,
+          279,
+          479,
+          379
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 298,
+        "y": 270,
+        "bbox": [
+          278,
+          220,
+          318,
+          320
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 177,
+        "y": 279,
+        "bbox": [
+          157,
+          229,
+          197,
+          329
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 11.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 469,
+        "y": 325,
+        "bbox": [
+          448,
+          275,
+          488,
+          375
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 303,
+        "y": 274,
+        "bbox": [
+          282,
+          224,
+          322,
+          324
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 168,
+        "y": 283,
+        "bbox": [
+          148,
+          233,
+          188,
+          333
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 11.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 477,
+        "y": 321,
+        "bbox": [
+          457,
+          271,
+          497,
+          371
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 307,
+        "y": 278,
+        "bbox": [
+          287,
+          228,
+          327,
+          328
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 160,
+        "y": 287,
+        "bbox": [
+          139,
+          237,
+          179,
+          337
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 11.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 486,
+        "y": 317,
+        "bbox": [
+          466,
+          267,
+          506,
+          367
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 312,
+        "y": 282,
+        "bbox": [
+          291,
+          232,
+          331,
+          332
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 151,
+        "y": 291,
+        "bbox": [
+          130,
+          241,
+          170,
+          341
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 11.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 495,
+        "y": 313,
+        "bbox": [
+          475,
+          263,
+          515,
+          363
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 316,
+        "y": 286,
+        "bbox": [
+          296,
+          236,
+          336,
+          336
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 142,
+        "y": 295,
+        "bbox": [
+          121,
+          245,
+          161,
+          345
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 11.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 504,
+        "y": 309,
+        "bbox": [
+          484,
+          259,
+          524,
+          359
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 321,
+        "y": 290,
+        "bbox": [
+          300,
+          240,
+          340,
+          340
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 133,
+        "y": 299,
+        "bbox": [
+          112,
+          249,
+          152,
+          349
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 12.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 12.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 503,
+        "y": 305,
+        "bbox": [
+          483,
+          255,
+          523,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 335,
+        "y": 294,
+        "bbox": [
+          314,
+          244,
+          354,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 134,
+        "y": 303,
+        "bbox": [
+          113,
+          253,
+          153,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 12.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 493,
+        "y": 305,
+        "bbox": [
+          473,
+          255,
+          513,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 345,
+        "y": 294,
+        "bbox": [
+          325,
+          244,
+          365,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 144,
+        "y": 303,
+        "bbox": [
+          124,
+          253,
+          164,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 12.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 483,
+        "y": 305,
+        "bbox": [
+          463,
+          255,
+          503,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 355,
+        "y": 294,
+        "bbox": [
+          335,
+          244,
+          375,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 154,
+        "y": 303,
+        "bbox": [
+          133,
+          253,
+          173,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 12.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 473,
+        "y": 305,
+        "bbox": [
+          452,
+          255,
+          492,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 365,
+        "y": 294,
+        "bbox": [
+          345,
+          244,
+          385,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 164,
+        "y": 303,
+        "bbox": [
+          144,
+          253,
+          184,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 13.0,
+    "targets": [
+      {
+        "target_id": 301,
+        "x": 463,
+        "y": 305,
+        "bbox": [
+          443,
+          255,
+          483,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 303,
+        "x": 375,
+        "y": 294,
+        "bbox": [
+          355,
+          244,
+          395,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 174,
+        "y": 303,
+        "bbox": [
+          154,
+          253,
+          194,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 13.2,
+    "targets": [
+      {
+        "target_id": 301,
+        "x": 453,
+        "y": 305,
+        "bbox": [
+          433,
+          255,
+          473,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 303,
+        "x": 385,
+        "y": 294,
+        "bbox": [
+          364,
+          244,
+          404,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 184,
+        "y": 303,
+        "bbox": [
+          163,
+          253,
+          203,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 13.4,
+    "targets": [
+      {
+        "target_id": 301,
+        "x": 443,
+        "y": 305,
+        "bbox": [
+          423,
+          255,
+          463,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 303,
+        "x": 395,
+        "y": 294,
+        "bbox": [
+          375,
+          244,
+          415,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 194,
+        "y": 303,
+        "bbox": [
+          174,
+          253,
+          214,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 13.6,
+    "targets": [
+      {
+        "target_id": 301,
+        "x": 433,
+        "y": 305,
+        "bbox": [
+          413,
+          255,
+          453,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 303,
+        "x": 405,
+        "y": 294,
+        "bbox": [
+          385,
+          244,
+          425,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 204,
+        "y": 303,
+        "bbox": [
+          184,
+          253,
+          224,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 13.8,
+    "targets": [
+      {
+        "target_id": 301,
+        "x": 423,
+        "y": 305,
+        "bbox": [
+          403,
+          255,
+          443,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 303,
+        "x": 415,
+        "y": 294,
+        "bbox": [
+          395,
+          244,
+          435,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 214,
+        "y": 303,
+        "bbox": [
+          194,
+          253,
+          234,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 14.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 420,
+        "y": 300,
+        "bbox": [
+          385,
+          245,
+          455,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 303,
+        "x": 425,
+        "y": 294,
+        "bbox": [
+          405,
+          244,
+          445,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 224,
+        "y": 303,
+        "bbox": [
+          204,
+          253,
+          244,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 14.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 420,
+        "y": 300,
+        "bbox": [
+          385,
+          245,
+          455,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 303,
+        "x": 435,
+        "y": 294,
+        "bbox": [
+          415,
+          244,
+          455,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 234,
+        "y": 303,
+        "bbox": [
+          213,
+          253,
+          253,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 14.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 420,
+        "y": 300,
+        "bbox": [
+          385,
+          245,
+          455,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 303,
+        "x": 445,
+        "y": 294,
+        "bbox": [
+          425,
+          244,
+          465,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 244,
+        "y": 303,
+        "bbox": [
+          224,
+          253,
+          264,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 14.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 420,
+        "y": 300,
+        "bbox": [
+          385,
+          245,
+          455,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 303,
+        "x": 455,
+        "y": 294,
+        "bbox": [
+          435,
+          244,
+          475,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 254,
+        "y": 303,
+        "bbox": [
+          233,
+          253,
+          274,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 14.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 420,
+        "y": 300,
+        "bbox": [
+          385,
+          245,
+          455,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 303,
+        "x": 465,
+        "y": 294,
+        "bbox": [
+          445,
+          244,
+          485,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 264,
+        "y": 303,
+        "bbox": [
+          244,
+          253,
+          284,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 15.0,
+    "targets": [
+      {
+        "target_id": 301,
+        "x": 363,
+        "y": 305,
+        "bbox": [
+          343,
+          255,
+          383,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 303,
+        "x": 475,
+        "y": 294,
+        "bbox": [
+          455,
+          244,
+          495,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 274,
+        "y": 303,
+        "bbox": [
+          254,
+          253,
+          294,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 15.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 353,
+        "y": 305,
+        "bbox": [
+          333,
+          255,
+          373,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 485,
+        "y": 294,
+        "bbox": [
+          465,
+          244,
+          505,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 284,
+        "y": 303,
+        "bbox": [
+          264,
+          253,
+          304,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 15.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 343,
+        "y": 305,
+        "bbox": [
+          323,
+          255,
+          363,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 495,
+        "y": 294,
+        "bbox": [
+          475,
+          244,
+          515,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 294,
+        "y": 303,
+        "bbox": [
+          274,
+          253,
+          314,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 15.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 333,
+        "y": 305,
+        "bbox": [
+          313,
+          255,
+          353,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 505,
+        "y": 294,
+        "bbox": [
+          485,
+          244,
+          525,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 304,
+        "y": 303,
+        "bbox": [
+          284,
+          253,
+          324,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 15.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 323,
+        "y": 305,
+        "bbox": [
+          303,
+          255,
+          343,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 515,
+        "y": 294,
+        "bbox": [
+          495,
+          244,
+          535,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 314,
+        "y": 303,
+        "bbox": [
+          294,
+          253,
+          334,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 16.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 313,
+        "y": 305,
+        "bbox": [
+          293,
+          255,
+          333,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 304,
+        "x": 525,
+        "y": 294,
+        "bbox": [
+          505,
+          244,
+          545,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 324,
+        "y": 303,
+        "bbox": [
+          304,
+          253,
+          344,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 16.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 304,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 16.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 304,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 16.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 304,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 16.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 304,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 17.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 304,
+        "x": 745,
+        "y": 294,
+        "bbox": [
+          725,
+          244,
+          765,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 17.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 304,
+        "x": 745,
+        "y": 294,
+        "bbox": [
+          725,
+          244,
+          765,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 17.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 304,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 17.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 304,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 17.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 304,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 18.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 304,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 18.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 18.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 18.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 18.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 19.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 19.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 19.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 19.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 19.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 20.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 20.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 20.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 20.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 20.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 21.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 305,
+        "bbox": [
+          493,
+          255,
+          533,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 325,
+        "y": 294,
+        "bbox": [
+          305,
+          244,
+          345,
+          344
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 303,
+        "bbox": [
+          104,
+          253,
+          144,
+          353
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 21.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 293,
+        "bbox": [
+          493,
+          243,
+          533,
+          343
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 338,
+        "y": 306,
+        "bbox": [
+          318,
+          255,
+          358,
+          355
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 291,
+        "bbox": [
+          104,
+          241,
+          144,
+          341
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 21.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 281,
+        "bbox": [
+          493,
+          231,
+          533,
+          331
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 352,
+        "y": 318,
+        "bbox": [
+          331,
+          267,
+          371,
+          367
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 279,
+        "bbox": [
+          104,
+          229,
+          144,
+          329
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 21.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 269,
+        "bbox": [
+          493,
+          218,
+          533,
+          318
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 365,
+        "y": 330,
+        "bbox": [
+          345,
+          280,
+          385,
+          380
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 267,
+        "bbox": [
+          104,
+          216,
+          144,
+          316
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 21.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 257,
+        "bbox": [
+          493,
+          206,
+          533,
+          306
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 378,
+        "y": 342,
+        "bbox": [
+          358,
+          292,
+          398,
+          392
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 255,
+        "bbox": [
+          104,
+          204,
+          144,
+          304
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 22.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 245,
+        "bbox": [
+          493,
+          195,
+          533,
+          295
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 392,
+        "y": 354,
+        "bbox": [
+          371,
+          304,
+          411,
+          404
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 243,
+        "bbox": [
+          104,
+          193,
+          144,
+          293
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 22.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 233,
+        "bbox": [
+          493,
+          183,
+          533,
+          283
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 405,
+        "y": 366,
+        "bbox": [
+          384,
+          315,
+          424,
+          415
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 231,
+        "bbox": [
+          104,
+          181,
+          144,
+          281
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 22.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 221,
+        "bbox": [
+          493,
+          171,
+          533,
+          271
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 418,
+        "y": 378,
+        "bbox": [
+          398,
+          327,
+          438,
+          427
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 219,
+        "bbox": [
+          104,
+          169,
+          144,
+          269
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 22.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 209,
+        "bbox": [
+          493,
+          158,
+          533,
+          258
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 432,
+        "y": 390,
+        "bbox": [
+          411,
+          340,
+          451,
+          440
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 207,
+        "bbox": [
+          104,
+          156,
+          144,
+          256
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 22.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 197,
+        "bbox": [
+          493,
+          146,
+          533,
+          246
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 445,
+        "y": 402,
+        "bbox": [
+          425,
+          352,
+          465,
+          452
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 195,
+        "bbox": [
+          104,
+          144,
+          144,
+          244
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 23.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 185,
+        "bbox": [
+          493,
+          135,
+          533,
+          235
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 458,
+        "y": 414,
+        "bbox": [
+          438,
+          364,
+          478,
+          464
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 183,
+        "bbox": [
+          104,
+          133,
+          144,
+          233
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 23.2,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 173,
+        "bbox": [
+          493,
+          123,
+          533,
+          223
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 472,
+        "y": 426,
+        "bbox": [
+          451,
+          375,
+          491,
+          475
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 171,
+        "bbox": [
+          104,
+          121,
+          144,
+          221
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 23.4,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 161,
+        "bbox": [
+          493,
+          111,
+          533,
+          211
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 485,
+        "y": 438,
+        "bbox": [
+          464,
+          387,
+          504,
+          487
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 159,
+        "bbox": [
+          104,
+          109,
+          144,
+          209
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 23.6,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 149,
+        "bbox": [
+          493,
+          98,
+          533,
+          198
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 498,
+        "y": 450,
+        "bbox": [
+          478,
+          400,
+          518,
+          500
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 147,
+        "bbox": [
+          104,
+          96,
+          144,
+          196
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 23.8,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 137,
+        "bbox": [
+          493,
+          86,
+          533,
+          186
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 512,
+        "y": 462,
+        "bbox": [
+          491,
+          412,
+          531,
+          512
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 135,
+        "bbox": [
+          104,
+          84,
+          144,
+          184
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  },
+  {
+    "timestamp": 24.0,
+    "targets": [
+      {
+        "target_id": 303,
+        "x": 513,
+        "y": 125,
+        "bbox": [
+          493,
+          75,
+          533,
+          175
+        ],
+        "action": "正常",
+        "recognized_name": "未知"
+      },
+      {
+        "target_id": 301,
+        "x": 525,
+        "y": 474,
+        "bbox": [
+          505,
+          424,
+          545,
+          524
+        ],
+        "action": "正常",
+        "recognized_name": "张三"
+      },
+      {
+        "target_id": 302,
+        "x": 124,
+        "y": 123,
+        "bbox": [
+          104,
+          73,
+          144,
+          173
+        ],
+        "action": "正常",
+        "recognized_name": "李四"
+      }
+    ]
+  }
+]
