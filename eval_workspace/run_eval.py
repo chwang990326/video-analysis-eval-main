@@ -24,7 +24,7 @@ INTERFERENCE_EVENT_TYPE = "干扰动作"
 UNKNOWN_NAMES = {"未知", "未注册", "unknown", "Unknown", "stranger", "陌生人", ""}
 BEHAVIOR_LABEL_MAP = {
     "climbing": "攀爬",
-    "falling": "摔倒",
+    "falling_down": "摔倒",
     "looking_at_phone": "看手机",
     "normal": "正常",
     "reaching_high": "摸高",
@@ -1307,7 +1307,7 @@ class VideoEvaluator:
 
     def load_annotations(self, anno_file: str) -> List[Dict[str, object]]:
         rows: List[Dict[str, object]] = []
-        with open(anno_file, "r", encoding="utf-8-sig", newline="") as f:
+        with open(anno_file, "r", encoding="gbk", newline="") as f:
             reader = csv.DictReader(f)
             for row in reader:
                 item = dict(row)
