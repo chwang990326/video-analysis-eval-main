@@ -838,26 +838,21 @@ class VideoEvaluator:
                 continue
             person = anno["真实姓名"]
             status = anno["注册状态"]
-            gt = self.location_to_xy(anno["发生位置"])
-            target_id = id_mapping.get(person)
             correct_times = []
             total_checks = 0
             correct_checks = 0
             for sample in self.samples_in_window(sampled, anno["开始时间_s"], anno["结束时间_s"]):
-                det = self.find_detection(sample["detections"], target_id, gt)
-                if det is None:
-                    continue
+                recognized_names = {det["recognized_name"] for det in sample["detections"]}
                 total_checks += 1
-                recognized_name = det["recognized_name"]
                 if status == "已注册":
                     self.registered_id_total += 1
-                    if recognized_name == person:
+                    if person in recognized_names:
                         self.registered_id_correct += 1
                         correct_checks += 1
                         correct_times.append(sample["timestamp"])
                 else:
                     self.unknown_reject_total += 1
-                    if recognized_name in UNKNOWN_NAMES:
+                    if recognized_names and all(name in UNKNOWN_NAMES for name in recognized_names):
                         self.unknown_reject_correct += 1
                         correct_checks += 1
             if status == "已注册" and correct_times:
