@@ -98,7 +98,7 @@ python run_eval.py \
 - `behavior_events` 作为行为识别结果
 - `bounding_box` 作为可视化框
 
-如果接口返回的 `world_coordinates` 单位是毫米，而你的 `location_config.json` 用的是厘米，运行时增加 `--world_coord_scale 0.1` 即可。
+建议 `world_coordinates` 和 `location_config.json` 坐标统一使用毫米(mm)；若单位不一致，可通过 `--world_coord_scale` 进行换算统一。
 
 接口返回建议格式：
 

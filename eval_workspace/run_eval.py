@@ -496,7 +496,7 @@ class VideoEvaluator:
                         "事件类型": anno["事件类型"],
                         "位置": anno["发生位置"],
                         "结果": round(float(np.median(window_errors)), 2),
-                        "附加信息": "窗口中位误差(cm)",
+                        "附加信息": "窗口中位误差(mm)",
                     }
                 )
 
@@ -565,7 +565,7 @@ class VideoEvaluator:
                 speed = calc_distance((prev["det"]["x"], prev["det"]["y"]), (curr["det"]["x"], curr["det"]["y"])) / dt
                 if speed > self.jump_speed_threshold:
                     self.track_jump_count += 1
-                    self.issues.append(IssueRecord(video_name, curr["ts"], "轨迹跳变", f"Target_ID={target_id}, speed={speed:.1f}cm/s"))
+                    self.issues.append(IssueRecord(video_name, curr["ts"], "轨迹跳变", f"Target_ID={target_id}, speed={speed:.1f}mm/s"))
                     self.track_jump_cases.append({
                         "video_name": video_name,
                         "ts": curr["ts"],
@@ -1054,7 +1054,7 @@ class VideoEvaluator:
             cv2.rectangle(frame, (x1, y1), (x2, y2), (0, 0, 255), 2)
 
             text_lines = [
-                f"Error: {err:.1f} cm",
+                f"Error: {err:.1f} mm",
                 f"Det XY: ({det['x']:.1f}, {det['y']:.1f})",
                 f"GT XY: ({gt[0]:.1f}, {gt[1]:.1f})"
             ]
@@ -1248,9 +1248,9 @@ class VideoEvaluator:
         avg_identity_latency = float(np.mean(self.identity_latency)) if self.identity_latency else 0.0
 
         self.summary_rows = [
-            {"指标维度": "定位精度", "指标名称": "P50误差(cm)", "结果数值": round(p50_error, 2)},
-            {"指标维度": "定位精度", "指标名称": "P90误差(cm)", "结果数值": round(p90_error, 2)},
-            {"指标维度": "定位精度", "指标名称": "Max误差(cm)", "结果数值": round(max_error, 2)},
+            {"指标维度": "定位精度", "指标名称": "P50误差(mm)", "结果数值": round(p50_error, 2)},
+            {"指标维度": "定位精度", "指标名称": "P90误差(mm)", "结果数值": round(p90_error, 2)},
+            {"指标维度": "定位精度", "指标名称": "Max误差(mm)", "结果数值": round(max_error, 2)},
             {"指标维度": "ID稳定性", "指标名称": "轨迹跳变次数", "结果数值": self.track_jump_count},
             {"指标维度": "ID稳定性", "指标名称": "ID串号次数", "结果数值": self.id_switch_count},
             {"指标维度": "ID稳定性", "指标名称": "误合并次数", "结果数值": self.false_merge_count},
@@ -1473,7 +1473,7 @@ def main() -> None:
     parser.add_argument("--disable_spatial_positioning", action="store_false", dest="enable_spatial_positioning", help="关闭空间定位")
     parser.add_argument("--enable_target_tracking", action="store_true", default=True, help="启用目标追踪")
     parser.add_argument("--disable_target_tracking", action="store_false", dest="enable_target_tracking", help="关闭目标追踪")
-    parser.add_argument("--world_coord_scale", type=float, default=1.0, help="对 API 返回 world_coordinates 的缩放系数，例如毫米转厘米可设为 0.1")
+    parser.add_argument("--world_coord_scale", type=float, default=1.0, help="对 API 返回 world_coordinates 的缩放系数，用于统一到毫米(mm)单位")
     parser.add_argument("--analysis_fps", type=float, default=5.0, help="分析采样帧率")
     parser.add_argument("--jump_speed_threshold", type=float, default=5000.0, help="轨迹跳变速度阈值(mm/s)")
     parser.add_argument("--match_distance_threshold", type=float, default=800.0, help="点位匹配距离阈值(mm)")
